@@ -187,4 +187,5 @@ Este projeto foi construído para demonstrar o uso de React com tipagem estátic
 ## Autores
 [Marcelo Vieira](<https://www.linkedin.com/in/marcelovieirasilva/>)  
 [Nicolas dos Santos](<https://www.linkedin.com/in/nicolas-durao//>)  
-Pedro Henrique  
+[Pedro Henrique](<https://github.com/ghpedro16/>)  
+
